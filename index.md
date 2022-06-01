@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# References
 
-You can use the [editor on GitHub](https://github.com/mctau/IT-Fair_2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Information:
 
-### Markdown
+- Morningstar, C., & Farmer, F. R. (1990). Cyberspace: First Steps. The lessons of Lucasfilm's Habitat. Retrieved May 28, 2022, from https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Rößer, M. (2021). Meta: Keine Targeting mehr auf Grundlage sensibler Daten: W&V. Meta: Keine Anzeigen mehr auf Grundlage sensibler Daten | W&V. Retrieved May 28, 2022, from https://www.wuv.de/Archiv/Meta-Kein-Targeting-mehr-auf-Grundlage-sensibler-Daten 
 
-```markdown
-Syntax highlighted code block
+- Becker, A., & Martin, N. (2021). NFTs: Hype oder Zukunft? DW.COM. Retrieved May 28, 2022, from https://www.dw.com/de/nfts-hype-oder-zukunft/a-59805175
 
-# Header 1
-## Header 2
-### Header 3
+- Stephenson, N. (2021). Snow Crash. S. Fischer Verlage. Retrieved May 28, 2022, from https://www.fischerverlage.de/buch/neal-stephenson-snow-crash-9783596705597 
 
-- Bulleted
-- List
+- Stephenson, N. (2000). Snow Crash . PenguinRandomhouse.com. Retrieved May 28, 2022, from https://www.penguinrandomhouse.com/books/172832/snow-crash-by-neal-stephenson/ 
+Retrieved May 28, 2022, from https://www.animocabrands.com/
+Retrieved May 28, 2022, from https://secondlife.com/
+Retrieved May 28, 2022, from https://store.epicgames.com/de/p/fortnite
+Retrieved May 28, 2022, from http://metaverse.sourceforge.net/index.html
+Die Geschichte des Internets vom Web 1.0 bis Web 4.0 kompakt erklärt. DBI Analytics Beratung. (2018, November 29). Retrieved May 28, 2022, from https://dbi-analytics.de/das-internet-kompakt-erklaert/ 
+Snider, M. (2022, January 3). CES 2022 preview: The metaverse, nfts and a self-driving tractor? plus more virtual events. USA Today. Retrieved June 1, 2022, from https://eu.usatoday.com/story/tech/2022/01/03/ces-2022-nfts-metaverse-covid-virtual/8984145002/ 
 
-1. Numbered
-2. List
+# Graphics:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mctau/IT-Fair_2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Retrieved May 31, 2022, from https://upload.wikimedia.org/wikipedia/en/d/d8/Habitat_cover.jpg
+- Retrieved May 31, 2022, from https://www.weltbild.de/artikel/buch/snow-crash_34877003-1
+- Retrieved May 28, 2022, from https://secondlife.com/
+- Retrieved May 28, 2022, from http://metaverse.sourceforge.net/index.html
+- Retrieved May 28, 2022, from https://store.epicgames.com/de/p/fortnite
+- Retrieved May 28, 2022, from https://www.dw.com/de/nfts-hype-oder-zukunft/a-59805175
+- Retrieved May 28, 2022, from https://www.wuv.de/Archiv/Meta-Kein-Targeting-mehr-auf-Grundlage-sensibler-Daten
+- Retrieved May 28, 2022, from https://www.animocabrands.com/
