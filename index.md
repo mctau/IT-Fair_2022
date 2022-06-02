@@ -11,6 +11,8 @@
 - Stephenson, N. (2021). Snow Crash. S. Fischer Verlage. Retrieved May 28, 2022, from <https://www.fischerverlage.de/buch/neal-stephenson-snow-crash-9783596705597>
 
 - Stephenson, N. (2000). Snow Crash . PenguinRandomhouse.com. Retrieved May 28, 2022, from <https://www.penguinrandomhouse.com/books/172832/snow-crash-by-neal-stephenson/>
+- 
+- 7 important problems &amp; disadvantages of the metaverse. Bernard Marr. (2022, April 11). Retrieved May 12, 2022, from <https://bernardmarr.com/7-important-problems-disadvantages-of-the-metaverse/>
 
 - Retrieved May 28, 2022, from <https://www.animocabrands.com/>
 - Retrieved May 28, 2022, from <https://secondlife.com/>
@@ -41,3 +43,4 @@
 - Retrieved June 1, 2022, from <https://www.google.com/imgres?imgurl=https%3A%2F%2Fcompile.blog%2Fwp-content%2Fuploads%2F2021%2F11%2FWeb3-Icon-2.png&imgrefurl=https%3A%2F%2Fcompile.blog%2Fgraphics%2Fweb3-icons%2F&tbnid=_FNI1oGo0-rnxM&vet=12ahUKEwj7zryjjPT3AhWNQPEDHVnZC2wQMygOegUIARDRAQ..i&docid=t38S9I3H1jf_eM&w=512&h=512&q=web%203.0%20icon&client=firefox-b-d&ved=2ahUKEwj7zryjjPT3AhWNQPEDHVnZC2wQMygOegUIARDRAQ>
 - Retrieved June 1, 2022, from <https://www.google.com/imgres?imgurl=https%3A%2F%2Fflyclipart.com%2Fthumb2%2Fbitcoin-blockchain-coin-cryptocurrency-currency-wallet-icon-458601.png&imgrefurl=https%3A%2F%2Fflyclipart.com%2Fbitcoin-blockchain-coin-cryptocurrency-currency-wallet-icon-wallet-clipart-458601&tbnid=3mHPFNdcnedazM&vet=10CPoBEDMotgJqFwoTCKjL1oCI9PcCFQAAAAAdAAAAABAD..i&docid=PciTLaoYEBoV5M&w=840&h=572&q=blockchain%20icon&client=firefox-b-d&ved=0CPoBEDMotgJqFwoTCKjL1oCI9PcCFQAAAAAdAAAAABAD#imgrc=3mHPFNdcnedazM&imgdii=vJDt-BEqm-HaoM>
 - Retrieved June 1, 2022, from <https://www.invisionapp.com/inside-design/design-resources/virtual-reality-augmented-reality-icon-pack/>
+- File:anxiety and confusion 2683238.SVG. Wikimedia Commons. (n.d.). Retrieved June 2, 2022, from <https://commons.wikimedia.org/wiki/File:Anxiety_and_confusion_2683238.svg> 
